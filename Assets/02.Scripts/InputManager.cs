@@ -11,6 +11,7 @@ public class InputManager : MonoBehaviour
     public InputActionProperty joystickAction;
     public InputActionProperty velocity;
     public InputActionProperty angularVelocity;
+    public InputActionProperty haptic;
 
     private bool wasGripPressed = false;
     private bool wasTriggerPressed = false;
@@ -48,6 +49,11 @@ public class InputManager : MonoBehaviour
     public Vector3 AngularVelocityInput()
     {
         return angularVelocity.action.ReadValue<Vector3>();
+    }
+
+    public Vector3 HapticInput()
+    {
+        return haptic.action.ReadValue<Vector3>();
     }
 
     public bool IsGripPressed()

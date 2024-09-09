@@ -65,6 +65,7 @@
     <Compile Include="Assets\02.Scripts\ActiveState.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\02.Scripts\GrabObject.cs" />
+    <Compile Include="Assets\02.Scripts\OutputManager.cs" />
     <Compile Include="Assets\02.Scripts\ScreenFade.cs" />
     <Compile Include="Assets\02.Scripts\TeleportFadeControl.cs" />
     <Compile Include="Assets\02.Scripts\Movement.cs" />

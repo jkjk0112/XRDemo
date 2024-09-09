@@ -1295,6 +1295,18 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 3890607082815274010, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
+  haptic:
+    m_UseReference: 0
+    m_Action:
+      m_Name: Haptic
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: bb620fc3-62c2-4758-8160-1a5beb522124
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Reference: {fileID: 0}
 --- !u!114 &612411927
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2567,6 +2579,18 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 2872220714998623430, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
+  haptic:
+    m_UseReference: 0
+    m_Action:
+      m_Name: 
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 9469a670-113f-4008-bf1d-f1fb1fac1b37
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Reference: {fileID: 0}
 --- !u!114 &792637942
 MonoBehaviour:
   m_ObjectHideFlags: 0
