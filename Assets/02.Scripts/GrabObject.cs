@@ -18,6 +18,8 @@ public class GrabObject : MonoBehaviour
         contactRigidbodies = new List<Rigidbody>();
     }
 
+
+
     void Update()
     {
         if (xrinput.IsGripPressed())
