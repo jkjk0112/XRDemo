@@ -1236,12 +1236,12 @@ MonoBehaviour:
       m_Name: Grip
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: a1c455fb-4518-425b-9975-b491d001d75d
+      m_Id: 3d965896-7f21-4511-a978-d6651875a393
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_Reference: {fileID: -6131295136447488360, guid: c348712bda248c246b8c49b3db54643f,
+    m_Reference: {fileID: -1758520528963094988, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
   triggerAction:
     m_UseReference: 1
@@ -2521,12 +2521,12 @@ MonoBehaviour:
       m_Name: Grip
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 9af54675-08d7-41a1-bed0-0c3577af7a16
+      m_Id: 1116070e-6d1d-4705-9e20-84aab2a5a286
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_Reference: {fileID: 187161793506945269, guid: c348712bda248c246b8c49b3db54643f,
+    m_Reference: {fileID: -1758520528963094988, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
   triggerAction:
     m_UseReference: 1

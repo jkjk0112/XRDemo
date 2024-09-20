@@ -10,6 +10,7 @@ public class GrabObject : MonoBehaviour
     private Rigidbody attachedObj;
     private List<Rigidbody> contactRigidbodies;
     private ActiveState attachedObjActiveState; // 그랩 된 오브젝트의 활성화 상태 변경을 위해 참조
+    private static GrabObject currentGrabbingHand; // 현재 그랩 중인 손을 추적하는 변수
 
     void Start()
     {
@@ -17,8 +18,6 @@ public class GrabObject : MonoBehaviour
         handRigidbody = GetComponent<Rigidbody>();
         contactRigidbodies = new List<Rigidbody>();
     }
-
-
 
     void Update()
     {
@@ -39,12 +38,22 @@ public class GrabObject : MonoBehaviour
             return;  // 이미 오브젝트를 잡고 있다면, 더 이상 그랩 x
         }
 
-        attachedObj = GetNearestRigidbody();
+        Rigidbody nearestObj = GetNearestRigidbody();
 
-        if (attachedObj == null)
+        if (nearestObj == null)
         {
             return;  // 근처에 그랩 가능 오브젝트가 없으면
         }
+
+        // 다른 손이 이미 해당 오브젝트를 잡고 있다면 그 손의 그랩을 해제
+        if (currentGrabbingHand != null && currentGrabbingHand != this)
+        {
+            currentGrabbingHand.ForceDrop();  // 이전 손의 그랩 강제로 해제
+        }
+
+
+        attachedObj = nearestObj;
+        currentGrabbingHand = this;  // 현재 손을 그랩 중인 손으로 설정
 
         attachedObj.useGravity = false;
         attachedObj.isKinematic = true;
@@ -62,6 +71,17 @@ public class GrabObject : MonoBehaviour
 
     public void ObjectDrop()
     {
+        if (attachedObj == null || currentGrabbingHand != this)
+        {
+            return;  // 오브젝트를 잡고 있지 않거나, 다른 손에서 잡고 있을 경우 해제하지 않음
+        }
+
+        ForceDrop();  // 드랍 분리
+    }
+
+    public void ForceDrop()
+    {
+        // 오브젝트 놓기
         if (attachedObj == null)
         {
             return;
@@ -80,7 +100,8 @@ public class GrabObject : MonoBehaviour
         }
 
         attachedObj = null;
-        attachedObjActiveState = null; 
+        attachedObjActiveState = null;
+        currentGrabbingHand = null;  // 현재 그랩 상태 초기화
     }
 
     private Rigidbody GetNearestRigidbody()

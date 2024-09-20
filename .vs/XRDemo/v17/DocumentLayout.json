@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|c:\\users\\jkjk0\\desktop\\unitygit\\xrdemo\\assets\\02.scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\outputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\outputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\outlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\outlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\xrinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\returnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\returnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\outputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\outputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\pointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +50,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "OutlineController.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\OutlineController.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\OutlineController.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\OutlineController.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\OutlineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:23:05.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "OutputManager.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\OutputManager.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\OutputManager.cs",
@@ -62,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ReturnObject.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\ReturnObject.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\ReturnObject.cs",
@@ -70,12 +86,11 @@
               "RelativeToolTip": "Assets\\02.Scripts\\ReturnObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T22:49:15.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-09T22:49:15.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Pointer.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Pointer.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\Pointer.cs",
@@ -87,20 +102,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "XRInputManager.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\XRInputManager.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\XRInputManager.cs",
               "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\XRInputManager.cs",
               "RelativeToolTip": "Assets\\02.Scripts\\XRInputManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T12:26:16.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T12:26:16.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Movement.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\Movement.cs",
@@ -112,33 +126,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InputManager.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\InputManager.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\InputManager.cs",
               "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\InputManager.cs",
               "RelativeToolTip": "Assets\\02.Scripts\\InputManager.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCIAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T22:48:52.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GrabObject.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\GrabObject.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\GrabObject.cs",
               "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\GrabObject.cs",
               "RelativeToolTip": "Assets\\02.Scripts\\GrabObject.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAkwE0AAAAJAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T22:48:44.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "EventTest.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\EventTest.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\EventTest.cs",
@@ -150,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ActiveState.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\ActiveState.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\ActiveState.cs",
