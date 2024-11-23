@@ -697,8 +697,8 @@
                 },
                 {
                     "name": "",
-                    "id": "4cfb493e-1e50-4cf8-b152-74b209c2168d",
-                    "path": "<XRController>{LeftHand}/deviceVelocity",
+                    "id": "d4dc2b66-ae27-4483-bd20-41a83056b927",
+                    "path": "<XRController>{LeftHand}/{DeviceVelocity}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -709,10 +709,10 @@
                 {
                     "name": "",
                     "id": "c73a9225-5c5c-44e2-926a-b3eb0df5ae09",
-                    "path": "<XRController>{LeftHand}/deviceAngularVelocity",
+                    "path": "<XRController>{LeftHand}/{DeviceAngularVelocity}",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
+                    "groups": "Generic XR Controller",
                     "action": "AngularVelocity",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -1533,8 +1533,8 @@
                 },
                 {
                     "name": "",
-                    "id": "6e422d9b-f727-4305-b3c2-5de577b3d1a4",
-                    "path": "<XRController>{RightHand}/deviceVelocity",
+                    "id": "69ab274e-6f5e-49c4-97de-5aa02958135a",
+                    "path": "<XRController>{RightHand}/{DeviceVelocity}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -1544,8 +1544,8 @@
                 },
                 {
                     "name": "",
-                    "id": "300e8490-f43b-4ad9-b634-e6a7d7b3d59d",
-                    "path": "<XRController>{RightHand}/deviceAngularVelocity",
+                    "id": "93b3371b-5b50-43dc-b031-6080cfff2572",
+                    "path": "<XRController>{RightHand}/{DeviceAngularVelocity}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",

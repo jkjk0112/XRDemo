@@ -8,12 +8,15 @@ public class ReturnObject : MonoBehaviour
 
     private Vector3 originalPosition;
     private Quaternion originalRotation;
-    private bool isReturned = false;
+    private bool isReturning = false; // 리턴 중인지 확인
+    private Rigidbody rb;
 
     private void Start()
     {
         originalPosition = transform.position;
         originalRotation = transform.rotation;
+
+        rb = GetComponent<Rigidbody>();
 
         if (activeState == null)
         {
@@ -25,15 +28,17 @@ public class ReturnObject : MonoBehaviour
     {
         if (!activeState.isGrabbed) // 물체가 그랩되지 않았을 때만 이동
         {
-            if (!isReturned && IsObjectOutOfBounds())
+            if (!isReturning && IsObjectOutOfBounds())
             {
                 Invoke("ReturnToOriginalPosition", returnDelay);
-                isReturned = true;
+                isReturning = true;
             }
         }
         else
         {
-            isReturned = false; // 물체가 그랩되었을 때는 리셋
+            // 물체가 그랩된 상태에서는 리턴을 취소
+            CancelInvoke("ReturnToOriginalPosition");
+            isReturning = false; // 리셋
         }
     }
 
@@ -44,8 +49,16 @@ public class ReturnObject : MonoBehaviour
 
     private void ReturnToOriginalPosition()
     {
-        transform.position = originalPosition;
-        transform.rotation = originalRotation;
-        isReturned = false;
+        if (!activeState.isGrabbed) // 그랩되지 않은 상태에서만 리턴
+        {
+            transform.position = originalPosition;
+            transform.rotation = originalRotation;
+
+            // Rigidbody 속도와 회전 초기화
+            rb.velocity = Vector3.zero;
+            rb.angularVelocity = Vector3.zero;
+
+            isReturning = false;
+        }
     }
 }

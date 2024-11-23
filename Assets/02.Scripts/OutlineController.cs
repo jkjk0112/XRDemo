@@ -14,7 +14,7 @@ public class OutlineController : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Hand"))
+        if (other.CompareTag("OutlineHand"))
         {
             outline.enabled = true;
         }
@@ -22,7 +22,7 @@ public class OutlineController : MonoBehaviour
 
     void OnTriggerExit(Collider other)
     {
-        if (other.CompareTag("Hand"))
+        if (other.CompareTag("OutlineHand"))
         {
             outline.enabled = false;
         }

@@ -16,6 +16,25 @@ public class InputManager : MonoBehaviour
     private bool wasGripPressed = false;
     private bool wasTriggerPressed = false;
 
+    void Start()
+    {
+        // 사용중인 디바이스의 이름
+        string DeviceName = XRSettings.loadedDeviceName;
+
+        if (DeviceName.Contains("OpenVR"))
+        {
+            Debug.Log("Vive Pro 또는 SteamVR");
+        }
+        else if (DeviceName.Contains("Oculus"))
+        {
+            Debug.Log("Meta Quest 2 또는 Oculus 디바이스");
+        }
+        else
+        {
+            Debug.Log("알 수 없는 디바이스 사용 중: " + DeviceName);
+        }
+    }
+
     private void Update()
     {
         // 그립 버튼 입력 상태 감지
