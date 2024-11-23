@@ -8,11 +8,18 @@ TagManager:
   - ReturnArea
   - RayInteractable
   - InteractionObject
+  - White
+  - Red
+  - Blue
+  - OutlineHand
+  - UI
+  - Green
+  - Yellow
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Rail
   - Water
   - UI
   - 
