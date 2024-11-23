@@ -124,7 +124,7 @@ public class GrabObject : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("InteractionObject"))
+        if (other.CompareTag("InteractionObject") || other.gameObject.layer == LayerMask.NameToLayer("Interactable"))
         {
             contactRigidbodies.Add(other.gameObject.GetComponent<Rigidbody>());
         }
@@ -132,7 +132,7 @@ public class GrabObject : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.CompareTag("InteractionObject"))
+        if (other.CompareTag("InteractionObject") || other.gameObject.layer == LayerMask.NameToLayer("Interactable"))
         {
             contactRigidbodies.Remove(other.gameObject.GetComponent<Rigidbody>());
         }

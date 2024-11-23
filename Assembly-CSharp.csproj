@@ -63,22 +63,62 @@
     <Compile Include="Assets\02.Scripts\Outline.cs" />
     <Compile Include="Assets\02.Scripts\OutlineController.cs" />
     <Compile Include="Assets\02.Scripts\ActiveState.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\UIManager.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\FindColor.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\SnapToGrid.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\02.Scripts\GrabObject.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\BlockGrabObject.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\BlockColor.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\ProblemData.cs" />
     <Compile Include="Assets\02.Scripts\OutputManager.cs" />
     <Compile Include="Assets\02.Scripts\ScreenFade.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\BlockOutline.cs" />
     <Compile Include="Assets\02.Scripts\TeleportFadeControl.cs" />
     <Compile Include="Assets\02.Scripts\Movement.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\GridSlot.cs" />
     <Compile Include="Assets\02.Scripts\InputManager.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\ProblemGenerator.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\ProblemUI.cs" />
     <Compile Include="Assets\02.Scripts\Pointer.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\SlotManager.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\IsCorrect.cs" />
     <Compile Include="Assets\02.Scripts\ReturnObject.cs" />
     <Compile Include="Assets\02.Scripts\EventTest.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\BlockGroupManager.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\BlockSpawner.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\BlockGroup.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\CityRotation.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\BlockCountManager.cs" />
     <Compile Include="Assets\02.Scripts\XRInputManager.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\TrainMovement.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\OutlineColorHandler.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
     <None Include="Assets\QuickOutline\Resources\Shaders\OutlineMask.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
+    <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\QuickOutline\Readme.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\QuickOutline\Resources\Shaders\OutlineFill.shader" />
+    <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -921,6 +961,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.AI.Navigation">
+      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Burst.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
       <Private>False</Private>
@@ -987,6 +1031,10 @@
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
+      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
@@ -1101,6 +1149,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.AI.Navigation.Updater">
+      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Updater.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1119,6 +1171,10 @@
     </Reference>
     <Reference Include="Unity.Searcher.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.AI.Navigation.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor">

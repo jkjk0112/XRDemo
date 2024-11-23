@@ -3,32 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\outlinecolorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\outlinecolorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|c:\\users\\jkjk0\\desktop\\unitygit\\xrdemo\\assets\\02.scripts\\jihoon\\cityrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\cityrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|c:\\users\\jkjk0\\desktop\\unitygit\\xrdemo\\assets\\02.scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\outputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\outputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\slotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\outlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\outlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\trainmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\trainmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\xrinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\xrinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\jkjk0\\desktop\\unitygit\\xrdemo\\assets\\02.scripts\\jihoon\\traincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\02.scripts\\jihoon\\traincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\gridslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\gridslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\snaptogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\snaptogrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\grabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\returnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\returnobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\blockgrabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\blockgrabobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\blockspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\blockspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\blockcountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\blockcountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\problemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\problemui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\problemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\problemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\blockgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\blockgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\blockgroupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\blockgroupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\pointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\pointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\problemgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\problemgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\blockcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\blockcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\blockoutline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\blockoutline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\outlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\outlinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\findcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\findcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\jihoon\\iscorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\jihoon\\iscorrect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\outputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\outputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\xrinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|solutionrelative:assets\\02.scripts\\xrinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E645C9CD-A125-2F21-4DA7-FEA0ED8D5CCB}|Assembly-CSharp.csproj|C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\assets\\02.scripts\\activestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +134,242 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityRotation.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\CityRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\CityRotation.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\CityRotation.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\CityRotation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:47:08.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainController.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\TrainController.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\TrainController.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\TrainController.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\TrainController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:20:21.711Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SlotManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\SlotManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SlotManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\SlotManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAqwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:26:50.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlockGroup.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockGroup.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\BlockGroup.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockGroup.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\BlockGroup.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:26:04.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlockSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\BlockSpawner.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockSpawner.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\BlockSpawner.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:35:25.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProblemUI.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\ProblemUI.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\ProblemUI.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\ProblemUI.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\ProblemUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:05:32.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProblemData.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\ProblemData.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\ProblemData.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\ProblemData.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\ProblemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:05:03.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GrabObject.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\GrabObject.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\GrabObject.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\GrabObject.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\GrabObject.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwGgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:48:44.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SnapToGrid.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SnapToGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\SnapToGrid.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\SnapToGrid.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\SnapToGrid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:43:44.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GridSlot.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\GridSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\GridSlot.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\GridSlot.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\GridSlot.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAIwFoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T00:25:41.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReturnObject.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\ReturnObject.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\ReturnObject.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\ReturnObject.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\ReturnObject.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:49:15.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Outline.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Outline.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Outline.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Outline.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Outline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:24:24.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutlineColorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\OutlineColorHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\OutlineColorHandler.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\OutlineColorHandler.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\OutlineColorHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T23:26:28.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrainMovement.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\TrainMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\TrainMovement.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\TrainMovement.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\TrainMovement.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T03:22:22.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\InputManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\InputManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\InputManager.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAwIwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:48:52.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlockGrabObject.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockGrabObject.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\BlockGrabObject.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockGrabObject.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\BlockGrabObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:00:07.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlockGroupManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockGroupManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\BlockGroupManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockGroupManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\BlockGroupManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T23:26:31.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\UIManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\UIManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\UIManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T18:11:37.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BlockOutline.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockOutline.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\BlockOutline.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockOutline.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\BlockOutline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:44:57.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "OutlineController.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\OutlineController.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\OutlineController.cs",
@@ -66,7 +381,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 24,
+              "Title": "FindColor.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\FindColor.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\FindColor.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\FindColor.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\FindColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:32:39.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlockCountManager.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockCountManager.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\BlockCountManager.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockCountManager.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\BlockCountManager.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwFQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:24:13.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlockColor.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockColor.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\BlockColor.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\BlockColor.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\BlockColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:02:59.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pointer.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Pointer.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Pointer.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Pointer.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Pointer.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwHEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T22:49:08.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IsCorrect.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\IsCorrect.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\IsCorrect.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\IsCorrect.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\IsCorrect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T11:31:03.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProblemGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\ProblemGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Jihoon\\ProblemGenerator.cs",
+              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Jihoon\\ProblemGenerator.cs",
+              "RelativeToolTip": "Assets\\02.Scripts\\Jihoon\\ProblemGenerator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:06:37.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "OutputManager.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\OutputManager.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\OutputManager.cs",
@@ -78,31 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReturnObject.cs",
-              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\ReturnObject.cs",
-              "RelativeDocumentMoniker": "Assets\\02.Scripts\\ReturnObject.cs",
-              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\ReturnObject.cs",
-              "RelativeToolTip": "Assets\\02.Scripts\\ReturnObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T22:49:15.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pointer.cs",
-              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Pointer.cs",
-              "RelativeDocumentMoniker": "Assets\\02.Scripts\\Pointer.cs",
-              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Pointer.cs",
-              "RelativeToolTip": "Assets\\02.Scripts\\Pointer.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA8wCMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T22:49:08.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 27,
               "Title": "XRInputManager.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\XRInputManager.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\XRInputManager.cs",
@@ -114,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "Movement.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\Movement.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\Movement.cs",
@@ -126,33 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InputManager.cs",
-              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\InputManager.cs",
-              "RelativeDocumentMoniker": "Assets\\02.Scripts\\InputManager.cs",
-              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\InputManager.cs",
-              "RelativeToolTip": "Assets\\02.Scripts\\InputManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T22:48:52.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GrabObject.cs",
-              "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\GrabObject.cs",
-              "RelativeDocumentMoniker": "Assets\\02.Scripts\\GrabObject.cs",
-              "ToolTip": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\GrabObject.cs",
-              "RelativeToolTip": "Assets\\02.Scripts\\GrabObject.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAkwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T22:48:44.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 30,
               "Title": "EventTest.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\EventTest.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\EventTest.cs",
@@ -164,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 28,
               "Title": "ActiveState.cs",
               "DocumentMoniker": "C:\\Users\\jkjk0\\Desktop\\UnityGIt\\XRDemo\\Assets\\02.Scripts\\ActiveState.cs",
               "RelativeDocumentMoniker": "Assets\\02.Scripts\\ActiveState.cs",
