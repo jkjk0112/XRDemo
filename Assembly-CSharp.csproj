@@ -60,64 +60,215 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\HandAnimatorController.cs" />
     <Compile Include="Assets\02.Scripts\Outline.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\VignetteComponent.cs" />
+    <Compile Include="Assets\Jihoon\CarAI\Scripts\CheckerScript.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\PostProcessingModel.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Demo Assets\Unity Companion License\StarterAssets\FirstPersonController\Scripts\BasicRigidBodyPush.cs" />
     <Compile Include="Assets\02.Scripts\OutlineController.cs" />
     <Compile Include="Assets\02.Scripts\ActiveState.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Dissolve-FX\Helpers\DecalDissolve.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\UIManager.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\FindColor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\AmbientOcclusionModel.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\SnapToGrid.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\Mgrip.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\MotionBlurModel.cs" />
+    <Compile Include="Assets\Jihoon\CarAI\Scripts\carspawnerscript.cs" />
+    <Compile Include="Assets\02.Scripts\Kwanwoo\XylophoneGame.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\ArrowTouchRotation.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\BloomModel.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\PostProcessingBehaviour.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_MeshMaterialEffect.cs" />
     <Compile Include="Assets\02.Scripts\GrabObject.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\DitheringComponent.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\BlockGrabObject.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\OneTimeMaterialize.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\BlockColor.cs" />
+    <Compile Include="Assets\Jihoon\CarAI\Scripts\TaxiScript.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_CustomLight.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\DemoResources\Scripts\ME_MouseOrbit.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\ProblemData.cs" />
+    <Compile Include="Assets\Jihoon\CarAI\Scripts\CheckpointScript.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\FlipCard.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\DitheringModel.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\02.Scripts\OutputManager.cs" />
     <Compile Include="Assets\02.Scripts\ScreenFade.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\ChromaticAberrationModel.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\BlockOutline.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Dissolve-FX\Helpers\DissolverAutomaticTest.cs" />
+    <Compile Include="Assets\02.Scripts\Kwanwoo\XylophoneTest.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
     <Compile Include="Assets\02.Scripts\TeleportFadeControl.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\Card.cs" />
     <Compile Include="Assets\02.Scripts\Movement.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\GridSlot.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\Rendering\ME_PerPlatformSettings.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\SoundManager.cs" />
+    <Compile Include="Assets\02.Scripts\Kwanwoo\GmaeStrat.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\PSMeshRendererUpdater.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\VignetteModel.cs" />
     <Compile Include="Assets\02.Scripts\InputManager.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\Helpers\ME_EffectSettingColor.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\ProblemGenerator.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\BloomComponent.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\ProblemUI.cs" />
     <Compile Include="Assets\02.Scripts\Pointer.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\SlotManager.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_FixParticlesAligment.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\ScreenSpaceReflectionModel.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Utils\ColorGradingCurve.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\CardMatcher.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Dissolve-FX\Helpers\FloatingCoin.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Dissolve-FX\Helpers\ShowcaseList.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Demo Assets\Unity Companion License\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
+    <Compile Include="Assets\Jihoon\CarAI\Scripts\IntersectionScript.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\IsCorrect.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_TrailRendererNoise.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\Scripts\RotateMoveCamera.cs" />
+    <Compile Include="Assets\Jihoon\CarAI\Scripts\CarAIController.cs" />
+    <Compile Include="Assets\Jihoon\DenysAlmaral\CityPeople-FREE\Scripts\CityPeople.cs" />
     <Compile Include="Assets\02.Scripts\ReturnObject.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
     <Compile Include="Assets\02.Scripts\EventTest.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\BlockGroupManager.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_Reflection.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\PostProcessingContext.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_ParticleGravityPoint.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\Helpers\ME_AnimatorEvents.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Dissolve-FX\Helpers\PrefabsPlacer.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\BlockSpawner.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\BlockGroup.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Dissolve-FX\Core\Scripts\Dissolver.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\Helpers\ME_ColorHelper.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\UserLutModel.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\PostProcessingProfile.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\CityRotation.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\DepthOfFieldModel.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_LightCurves.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\GrainComponent.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\FogModel.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\FxaaComponent.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Demo Assets\Unity Companion License\StarterAssets\FirstPersonController\Scripts\FirstPersonController.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\TaaComponent.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\UserLutComponent.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\GameUIController.cs" />
+    <Compile Include="Assets\Jihoon\CarAI\Scripts\StopScript.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\PostProcessingComponent.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\BlockCountManager.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_ParticleCollisionDecal.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\DemoResources\Scripts\ME_RealtimeReflection.cs" />
     <Compile Include="Assets\02.Scripts\XRInputManager.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\FogComponent.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\BuiltinDebugViewsModel.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\TrainMovement.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\OutlineColorHandler.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_ParticleTrails.cs" />
+    <Compile Include="Assets\Jihoon\DenysAlmaral\CityPeople-FREE\Demo_Scenes\Scripts\DemoCamera.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\DemoResources\Scripts\ME_DemoGUI.cs" />
+    <Compile Include="Assets\02.Scripts\Jihoon\CityObjectManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
+    <None Include="Assets\Hanafuda\StandardRP\Hanafuda.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\GrainGen.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\FXAA3.cginc" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Utilities\CustomMotionTexture\Shaders\CustomMotionVectorTexture.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Readme.txt" />
+    <None Include="Assets\Jihoon\INab Studio\Dissolve-FX\Readme.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\LutGen.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
+    <None Include="Assets\Jihoon\ithappy\City_3\Render_Pipeline_Convert\Documentation.txt" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\ME_Gold.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\TAA.cginc" />
     <None Include="Assets\QuickOutline\Resources\Shaders\OutlineMask.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Editor Resources\Monitors\VectorscopeCompute.compute" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
+    <None Include="Assets\Jihoon\INab Studio\Dissolve-FX\Common\Subgraphs\Utilities\HLSL\TriplanarLOD.hlsl" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Editor Resources\Monitors\HistogramRender.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\ME_UberDistortion.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\ACES.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\ME_GlowCutoutGradient.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\FXAA.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\QuickOutline\Readme.txt" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
+    <None Include="Assets\Jihoon\Kids Room\Readme.txt" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\Fog.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\MotionBlur.shader" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\ME_DistortionPasses.cginc" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\DiskKernels.cginc" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Bluenoise64\COPYING.txt" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\ME_UberParticleShader.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Editor Resources\UI\Trackball.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Editor Resources\Monitors\WaveformRender.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\Common.cginc" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\ME_DistortionPerlin.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\Bloom.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\Uber.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\TAA.shader" />
+    <None Include="Assets\Jihoon\Amusement Park\Documentation\Read Me.txt" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\Blit.shader" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\Bloom.cginc" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
+    <None Include="Assets\Jihoon\Kids Room\PostProcessing\Resources\Shaders\DepthOfField.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader" />
     <None Include="Assets\QuickOutline\Resources\Shaders\OutlineFill.shader" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\ME_GlowCutout.shader" />
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\ME_LightningParticles.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\ME_DistortionSlime.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
@@ -969,6 +1120,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.XR.Hands">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.Hands.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1001,6 +1156,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Splines.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Splines.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.XR.OpenXR">
       <HintPath>Library\ScriptAssemblies\Unity.XR.OpenXR.dll</HintPath>
       <Private>False</Private>
@@ -1029,12 +1188,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
       <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
@@ -1113,6 +1272,10 @@
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.XR.Hands.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.Hands.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
       <HintPath>Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
       <Private>False</Private>
@@ -1161,6 +1324,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Splines">
+      <HintPath>Library\ScriptAssemblies\Unity.Splines.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
       <Private>False</Private>
@@ -1194,6 +1361,10 @@
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
       <Project>{5F55278A-B48D-CCB1-ACCA-23A0FB33197D}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Hands.Samples.VisualizerSample.csproj">
+      <Project>{A52757C2-6515-1CD8-FDAC-23D00E436150}</Project>
+      <Name>Unity.XR.Hands.Samples.VisualizerSample</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
       <Project>{4C2FCA61-0FFC-EB6A-B216-8D3130AD5F22}</Project>

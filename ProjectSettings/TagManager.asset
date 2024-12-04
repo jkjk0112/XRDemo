@@ -15,6 +15,22 @@ TagManager:
   - UI
   - Green
   - Yellow
+  - A1
+  - A2
+  - A3
+  - m1
+  - m2
+  - m3
+  - h1
+  - h2
+  - h3
+  - h4
+  - o1
+  - o2
+  - o3
+  - o4
+  - Stick
+  - Controller
   layers:
   - Default
   - TransparentFX
@@ -41,7 +57,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - GrabbedObject
   - 
   - 
   - 

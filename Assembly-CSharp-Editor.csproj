@@ -60,7 +60,47 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\DitheringModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\CarAI\Editor\CarAIScript.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\ScreenSpaceReflectionModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\UserLutModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\BuiltinDebugViewsEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\VignetteModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\PropertyDrawers\MinDrawer.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\ChromaticAberrationEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Utils\ReflectionUtils.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\PostProcessingModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\CarAI\Editor\FastCheckpointSpawnerEditor.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\GrainModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\ColorGradingModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Monitors\VectorscopeMonitor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\Editor\ME_UberParticleGUI.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\MotionBlurModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\PostProcessingFactory.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Utils\CurveEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Utils\EditorGUIHelper.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Shaders\Editor\ME_CustomShaderGUI.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Utils\FxStyles.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\PostProcessingBehaviourEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\DefaultPostFxModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\DepthOfFieldModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\AmbientOcclusionModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\PropertyDrawers\GetSetDrawer.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Monitors\HistogramMonitor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\PostProcessingMonitor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\AntialiasingModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\FogModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\BloomModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Utils\EditorResources.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Monitors\ParadeMonitor.cs" />
+    <Compile Include="Assets\Jihoon\INab Studio\Dissolve-FX\Core\Scripts\Editor\DissolverEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\PostProcessingInspector.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Monitors\WaveformMonitor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\Models\EyeAdaptationModelEditor.cs" />
+    <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Editor\PropertyDrawers\TrackballGroupDrawer.cs" />
+    <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\Editor\MeshRendererEditor.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -991,6 +1031,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.XR.Hands">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.Hands.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
       <Private>False</Private>
@@ -1023,6 +1067,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Splines.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Splines.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.XR.OpenXR">
       <HintPath>Library\ScriptAssemblies\Unity.XR.OpenXR.dll</HintPath>
       <Private>False</Private>
@@ -1051,12 +1099,12 @@
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
       <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
@@ -1135,6 +1183,10 @@
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.XR.Hands.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.Hands.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
       <HintPath>Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
       <Private>False</Private>
@@ -1183,6 +1235,10 @@
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Splines">
+      <HintPath>Library\ScriptAssemblies\Unity.Splines.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
       <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
       <Private>False</Private>
@@ -1220,6 +1276,10 @@
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
       <Project>{5F55278A-B48D-CCB1-ACCA-23A0FB33197D}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Hands.Samples.VisualizerSample.csproj">
+      <Project>{A52757C2-6515-1CD8-FDAC-23D00E436150}</Project>
+      <Name>Unity.XR.Hands.Samples.VisualizerSample</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
       <Project>{4C2FCA61-0FFC-EB6A-B216-8D3130AD5F22}</Project>
