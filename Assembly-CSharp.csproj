@@ -81,6 +81,7 @@
     <Compile Include="Assets\02.Scripts\Jihoon\ArrowTouchRotation.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\UIFollow.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\BloomModel.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\PostProcessingBehaviour.cs" />
@@ -138,6 +139,7 @@
     <Compile Include="Assets\Jihoon\CarAI\Scripts\IntersectionScript.cs" />
     <Compile Include="Assets\02.Scripts\Jihoon\IsCorrect.cs" />
     <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_TrailRendererNoise.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\CardController.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\Scripts\RotateMoveCamera.cs" />
     <Compile Include="Assets\Jihoon\CarAI\Scripts\CarAIController.cs" />
     <Compile Include="Assets\Jihoon\DenysAlmaral\CityPeople-FREE\Scripts\CityPeople.cs" />
@@ -149,6 +151,7 @@
     <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_Reflection.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\CardMatchingGame.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\PostProcessingContext.cs" />
@@ -166,6 +169,8 @@
     <Compile Include="Assets\Jihoon\KriptoFX\MeshEffect\Scripts\ME_LightCurves.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\GrainComponent.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Models\FogModel.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\PointerJH.cs" />
+    <Compile Include="Assets\02.Scripts\Jae\StartButtonManager.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\FxaaComponent.cs" />
     <Compile Include="Assets\Jihoon\INab Studio\Demo Assets\Unity Companion License\StarterAssets\FirstPersonController\Scripts\FirstPersonController.cs" />
     <Compile Include="Assets\Jihoon\Kids Room\PostProcessing\Runtime\Components\TaaComponent.cs" />
