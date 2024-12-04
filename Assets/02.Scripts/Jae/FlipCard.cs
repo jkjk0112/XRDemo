@@ -2,44 +2,39 @@ using UnityEngine;
 
 public class FlipCard : MonoBehaviour
 {
-    public bool isFlipped = false;
-    public float flipSpeed = 5.0f;
-
+    public float flipSpeed = 5.0f; // 회전 속도
     private float targetAngle;
     private bool isAnimating = false;
 
-    void Start()
-    {
-        targetAngle = 180f; // 시작 시 회전 목표각도 설정
-        Flip();
-    }
-
+    // 카드 뒤집기 호출
     public void Flip()
     {
-        if (isAnimating) return; // 애니메이션 중일 때 추가 입력 방지
+        if (isAnimating) return;
 
         isAnimating = true;
-        isFlipped = !isFlipped;
-        targetAngle = isFlipped ? 180f : 0f; // 목표 각도 설정
+
+        // 현재 회전 상태에 따라 목표 각도 변경
+        targetAngle = (Mathf.Abs(transform.eulerAngles.z) < 1f) ? 180f : 0f;
     }
 
-    void Update()
+    private void Update()
     {
         if (isAnimating)
         {
-            // 현재 각도와 목표 각도 사이의 차이를 계산
+            // 부드럽게 회전
             float currentZRotation = transform.eulerAngles.z;
             float newZRotation = Mathf.LerpAngle(currentZRotation, targetAngle, Time.deltaTime * flipSpeed);
 
-            // 회전 적용
-            transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, newZRotation);
+            // Z축 회전만 변경
+            transform.eulerAngles = new Vector3(40f, 180f, newZRotation);
 
-            // 목표 각도에 가까워졌는지 확인하여 애니메이션 종료
+            // 목표 각도에 도달하면 애니메이션 종료
             if (Mathf.Abs(newZRotation - targetAngle) < 0.1f)
             {
-                transform.eulerAngles = new Vector3(transform.eulerAngles.x, transform.eulerAngles.y, targetAngle);
+                transform.eulerAngles = new Vector3(40f, 180f, targetAngle);
                 isAnimating = false;
             }
         }
     }
 }
+
