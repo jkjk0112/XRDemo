@@ -32,6 +32,7 @@ TagManager:
   - o4
   - o3
   - m1
+  - Button
   layers:
   - Default
   - TransparentFX

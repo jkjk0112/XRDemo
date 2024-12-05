@@ -14,6 +14,8 @@ public class CardMatchingGame : MonoBehaviour
     public AudioSource flipAudio;     // 카드 뒤집기 오디오
     public GameObject nextPointer;         // 게임 종료 UI
     public GameObject otherPointer;         // 게임 종료 UI
+    public MoveAndReturn[] cardMovers;
+    public StartButtonManager startButtonManager;
 
     private void Start()
     {
@@ -96,14 +98,28 @@ public class CardMatchingGame : MonoBehaviour
     // 다음 UI 활성화 전에 대기 시간 추가
     private IEnumerator ActivateNextUIWithDelay()
     {
-        yield return new WaitForSeconds(3f); // 2초 대기
+        yield return new WaitForSeconds(2.5f); // 2초 대기
+        foreach (GameObject card in allCards)
+        {
+            MoveAndReturn moveAndReturn = card.GetComponent<MoveAndReturn>();
+            if (moveAndReturn != null)
+            {
+                moveAndReturn.StartMoveAndResetRotation();
+            }
+        }
+        yield return new WaitForSeconds(2f); // 2초 대기
+
         nextUI.SetActive(true); // 다음 UI 활성화
+        if (startButtonManager != null)
+        {
+            yield return StartCoroutine(startButtonManager.FlipAllCards());
+        }
         if (otherUI != null) // 특정 UI가 있다면 비활성화
         {
             otherUI.SetActive(false);
         }
         otherPointer.SetActive(false);
-        nextPointer.SetActive(true);
+        nextPointer.SetActive(true); 
     }
 
     // 모든 카드를 뒤집는 메서드

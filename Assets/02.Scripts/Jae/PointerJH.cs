@@ -50,7 +50,7 @@ public class PointerJH : MonoBehaviour
 
             // 태그로 상호작용 가능 여부 검사
             if (xrinput.IsTriggerPressed() && (hit.collider.CompareTag("RayInteractable") || hit.collider.CompareTag("InteractionObject") || hit.collider.CompareTag("UI")
-                || hit.collider.CompareTag("StartButton") || hit.collider.CompareTag("Card")))
+                || hit.collider.CompareTag("StartButton") || hit.collider.CompareTag("Card") || hit.collider.CompareTag("Button")))
             {
                 TriggerSelect(hit.collider.gameObject);
             }

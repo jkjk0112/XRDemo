@@ -42,7 +42,7 @@ public class StartButtonManager : MonoBehaviour
 
     }
 
-    private IEnumerator FlipAllCards()
+    public IEnumerator FlipAllCards()
     {
         cardGame.FlipAllCards(); // 카드 뒤집기 호출
         //// 시작 UI 비활성화
